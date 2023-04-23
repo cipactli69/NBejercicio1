@@ -38,5 +38,5 @@ public class CJE1 {
         }
         return (esPrimo);
     }// fin main
-}
+}//fin de la clase xdxxd
 
